@@ -1,0 +1,23 @@
+RUN PROJECT IN LOCAL HOST:
+*Download and Install XAMPP open source package(Contains Apache+MariaDB+PHP+Perl)
+*locate the htdocs folder in installed xampp folder(e.g.,C:\xampp\htdocs)
+*Paste the Project folder inside htdocs
+*open xampp control panel start 'Apache' and'mysql'
+*click mysql 'admin' to start the phpmyadmin page
+*create new DB like data_leakage and import *.sql file
+* Now your database creation is complete
+*open your browser and edit url 'localhost/file_name'
+*Now your php project run and connectdb was successfully.
+********************************************************************************
+RUN PROJECT ON WEB:
+https://data-leakage-and-security.000webhostapp.com/
+
+******************************************************************************/
+RUNNING PROJECT :
+*After running project you can see our home page
+*click login button it is goes login page
+*if you already user use your user credentials and log in as user
+*if you new user register yourself as user.waiting sometime until your user request reach admin.
+*Admin can activate block or remove user account
+* After acitivate your account you can perform securely sharing and storing your sensitive project file without security threads
+****************************************************************************************////////////******************************* 
